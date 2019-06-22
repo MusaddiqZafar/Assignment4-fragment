@@ -1,2 +1,1 @@
-Fragments Sample App
-
+Fragments 
